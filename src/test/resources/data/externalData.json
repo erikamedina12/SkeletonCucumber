@@ -1,0 +1,11 @@
+{
+  "users": {
+    "admin": {"userName": "admin", "password": "admin123", "status": "active", "role": "admin"},
+    "erika": {"userName": "erika", "password": "erika123", "status": "inactive", "role": "admin"},
+    "amelia": {"userName": "admin", "password": "ame123", "status": "inactive", "role": "admin"}
+  },
+  "CreditCards": {
+    "admin": {"creditCard": "345352412389867", "CVV": "087", "DueDate": "02/26"}
+  },
+  "platform": "Test_01"
+}
